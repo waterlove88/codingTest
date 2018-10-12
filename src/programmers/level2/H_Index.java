@@ -2,6 +2,10 @@ package programmers.level2;
 
 import java.util.Arrays;
 
+/*
+ * https://www.welcomekakao.com/learn/courses/30/lessons/42747
+ * H-Index
+ */
 public class H_Index {
 	public static void main(String[] args) {
 		// length : 논문 갯수
