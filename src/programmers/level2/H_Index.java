@@ -24,23 +24,5 @@ public class H_Index {
         }
         
         System.out.println(answer);
-					
-		// h의 최대 값은 length
-		for(int i=0; i<=citations.length; i++) {
-			int target = 0;
-			for(int j=0; j<citations.length; j++) {
-				if(citations[j] >= i) {
-					target++;
-				}
-			}
-			
-			if((target >= i) && (citations.length - target <= i)) {
-				answer = i;
-			} else {
-				break;
-			}
-		}
-		
-		System.out.println(answer);
 	}
 }
