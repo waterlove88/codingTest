@@ -8,6 +8,7 @@ import java.util.TreeMap;
 
 /*
  * https://www.welcomekakao.com/learn/courses/30/lessons/42579
+ * 베스트앨범
  */
 public class BestAlbum {
 	public static void main(String[] args) {

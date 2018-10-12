@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 /*
  * https://www.welcomekakao.com/learn/courses/30/lessons/42578
+ * 위장
  */
 public class Camouflage {
 	public static void main(String[] args) {
